@@ -2,7 +2,7 @@
 
 -------------------------
 
-#### About me
+### About me:
 
 Full-Stack Junior Developer.
 
