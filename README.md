@@ -4,7 +4,7 @@
 
 ### About me:
 
-Full-Stack Junior Developer.
+Junior Developer.
 
 I'm a former beautician with college degree. I have wide experience with Esthetics management. I always had interest for tech, and it grew up significantly after my student exchange in Germany.
 
